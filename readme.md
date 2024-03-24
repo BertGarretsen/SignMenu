@@ -1,0 +1,1 @@
+1.20.4 sign prompt based on this post: https://www.spigotmc.org/threads/zero-dependency-sign-gui-prompt-1-8-1-20.610242/
